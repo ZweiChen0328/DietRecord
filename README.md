@@ -4,4 +4,4 @@
 ## Android version
 https://drive.google.com/file/d/1KjJGZcAYKqK2C6fkanSB4gzFjTh-D3rs/view?usp=sharing
 
-![image]()![image]()
+![image](https://github.com/ZweiChen0328/DietRecord/blob/main/%E9%A3%B2%E9%A3%9F%E7%B4%80%E9%8C%84.png)![image]()
